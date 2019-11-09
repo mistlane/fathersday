@@ -47,24 +47,20 @@ h1 {
 }
 
 #h2 {
-    margin-top: 500px;
-    display:flex;
-    justify-content:center;
-    text-align:center
+    position:absolute;
+    left:50%;
+    bottom: 10px;
 }
 
-#dance1 {
-    margin-top: 290px;
-}
-#dance2 {
-    margin-top:290px;
-}
+
 h2 {
     justify-content:center;
     text-align: center;
     color: #fff;
     font-family: "Oswald", sans-serif;
     font-size: 70px;;
+    position:relative;
+    left: -50%;
 }
 
 #container {
